@@ -10,7 +10,7 @@ You will be comfortable with providing time and resource estimates to assist in 
 
 ## Scope Of Role - Key Accountabilities
 
-- Highly proficient at writing robust software web applicationsto demanding deadlines.
+- Highly proficient at writing robust software web applications to demanding deadlines.
 - Experience of building, extending and maintaining robust, scalable code within OOP languages. 
 - Working alone and in collaboration within multidisciplinary teams to deliver against project requirements and delivering to a high standard of quality.
 - Design and develop Enterprise level application planning and development based solutions.
@@ -26,7 +26,7 @@ You will be comfortable with providing time and resource estimates to assist in 
 ### Essential
 
 - A minimum of 3-5 years industry experience and / or a degree in Computer Science or related field with at least 2 years of equivalent experience.
-- Extensivesoftware engineering experience in modern object-oriented languages, especially in PHP.
+- Extensive software engineering experience in modern object-oriented languages, especially in PHP.
 - Experience of working with MVC frameworks.
 - Understanding of Service Oriented Architectures, integration patterns and RESTful web services.
 - Database Development experience, such as using MySQL including schema design, performance analysis and tuning.
@@ -34,7 +34,7 @@ You will be comfortable with providing time and resource estimates to assist in 
 - Experience of supporting and extending systems and code developed by teams other than your own.
 - Experience in Version control systems (Subversion, Git).
 - Experience creating high volume, complex applications using Internet technologies. 
-- Experience of working in afast-paced commercialenvironment where products have to be delivered to fixed timescales.
+- Experience of working in a fast-paced commercial environment where products have to be delivered to fixed timescales.
 - Experience working with operations teams to troubleshoot problems throughout the lifetime of an application.
 
 ### Desirable
