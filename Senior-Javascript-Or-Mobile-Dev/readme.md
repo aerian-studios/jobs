@@ -8,8 +8,6 @@ Working alongside our other developers and be responsible for writing world-clas
 
 Another function of your role will be to provide time and resource estimates to assist in the planning of projects as well as mentor and coach less experienced members of the team.
 
-
-
 ## Scope Of Role - Key Accountabilities
 
 - Highly proficient at writing robust software web applicationsto demanding deadlines.
