@@ -1,15 +1,5 @@
 # Senior Backend Web Developer
 
-## Context
-
-For more than 18 years Aerian has made some of the biggest and best web products in the world, with the products we work on and improve accounting for over 2% of global Internet traffic. We build websites, apps, installations, experiences and campaigns that deliver with scientifically proven results.
-
-This incredible achievement has grown from a focus on developing our staff to ensure we remain at the forefront of new and innovative technology developments. This commitment to the future development of our products has led to our products continuing to be held up as shining examples of digital at its best.
-
-Our team comprises experts in the fields of strategy, innovation, design and web development – truly giving us an end-to-end service for results driven products that has seen us described as a "truly first class outfit" by the cream of the industry.
-
-Our commitment to excellence has led to long-term relationships with strategic clients across commercial and public sectors, including BBC, Tesco, Vodafone, The Times, Danone, Sky and Nectar. Our staff are critical to our success, and we strive to continually develop them to be at the forefront of new and next generation technology.
-
 ## Purpose Of Role
 
 We are seeking a talented and influential Senior Backend Web Developer to join our team and create amazing products and services for a range of clients, working to deliver quality web products that are robust, reliable and scalable to meet high volumes of audience interaction. 
