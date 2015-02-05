@@ -10,8 +10,8 @@ This incredible achievement has grown from a focus on developing our staff to en
 
 Our team comprises experts in the fields of strategy, innovation, design and web development – truly giving us an end-to-end service for results driven products that has seen us described as a "truly first class outfit" by the cream of the industry.
 
-Our commitment to excellence has led to long-term relationships with strategic clients across commercial and public sectors, including BBC, Tesco, Vodafone, The Times, Danone, Sky and Nectar. Our staff are critical to our success, and we strive to continually develop them to be at the forefront of new and next generation technology.
+Our commitment to excellence has led to long-term relationships with strategic clients across commercial and public sectors, including BBC, Tesco Mobile, Vodafone, The Times, Danone, The Science Museum and Sky. Our staff are critical to our success, and we continually strive to develop them to be at the forefront of new and next generation technologies.
 
-Based in the beautiful village of Box, just up the road from Bath and next door neighbours of the illustrious Real World Studios, our office is an exciting and vibrant hub of innovation and we would like you to be a part of it.
+Based in the beautiful village of Box, just up the road from Bath and next door neighbours to the illustrious Real World Studios, our office is an exciting and vibrant hub of innovation and we would like you to be a part of it.
 
 Ping an email to [info@aerian.com](mailto:info@aerian.com) with your CV, salary expectation, availability and your Github or Bitbucket username and we will be in touch.
