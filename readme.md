@@ -14,4 +14,4 @@ Our commitment to excellence has led to long-term relationships with strategic c
 
 Based in the beautiful village of Box, just up the road from Bath and next door neighbours of the illustrious Real World Studios, our office is an exciting and vibrant hub of innovation and we would like you to be a part of it.
 
-Ping an email to [info@aerian.com](mailto:info@aerian.com) with your CV, salary expecation, availability and your Github or Bitbucket username and we will be in touch.
+Ping an email to [info@aerian.com](mailto:info@aerian.com) with your CV, salary expectation, availability and your Github or Bitbucket username and we will be in touch.
